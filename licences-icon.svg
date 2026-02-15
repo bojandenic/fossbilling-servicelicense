@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- Document -->
+  <rect x="14" y="10" width="36" height="44" rx="6" stroke="#2C3E50" stroke-width="3"/>
+
+  <!-- Fold corner -->
+  <path d="M38 10V20H50" stroke="#2C3E50" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- License lines -->
+  <line x1="22" y1="28" x2="42" y2="28" stroke="#2C3E50" stroke-width="2"/>
+  <line x1="22" y1="34" x2="42" y2="34" stroke="#2C3E50" stroke-width="2"/>
+
+  <!-- Shield -->
+  <path d="M32 40L40 43V48C40 52 36.5 55 32 56C27.5 55 24 52 24 48V43L32 40Z"
+        stroke="#2C3E50"
+        stroke-width="2.5"
+        fill="none"/>
+
+  <!-- Checkmark -->
+  <path d="M28 48L31 51L36 45"
+        stroke="#2C3E50"
+        stroke-width="2.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+</svg>
