@@ -19,15 +19,11 @@ This module allows automatic license creation per order and provides secure down
 - License reset from client panel
 - Compatible with older orders (product config fallback)
 
----
-
 ## Requirements
 
 - FossBilling 0.5.0+
 - PHP 8.0+
 - Writable `/data/downloads/` directory
-
----
 
 ## Installation
 
@@ -35,8 +31,6 @@ This module allows automatic license creation per order and provides secure down
 2. Extract into: /public_html/modules/Servicelicense
 3. Clear FossBilling cache
 4. Activate module inside admin panel
-
----
 
 ## Configuration
 
@@ -50,9 +44,6 @@ Inside Product → Module Settings:
 - Optional validation toggles
 
 Upload your plugin ZIP into: /public_html/data/downloads
-
-
----
 
 ## How Download Works
 
