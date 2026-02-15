@@ -56,8 +56,6 @@ Files are streamed via PHP and are never publicly exposed.
 
 MIT License
 
----
-
 ## Author
 
 Bojan Denić   
